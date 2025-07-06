@@ -157,4 +157,4 @@ Security Testing | Systems Thinking | Cloud and DevOps | Full-Stack Projects | D
 
 ---
 
-_This README was crafted with care to showcase not just my skills—but my passion for tech._
+_This README was crafted with care to showcase not just my skills but my passion for tech._

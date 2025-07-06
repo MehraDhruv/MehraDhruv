@@ -8,14 +8,20 @@ layout: center
 
 🎓 **Bachelor of Information Technology** | Major: **Networks & Security**  
 🔐 Future-focused on **Cybersecurity**, **Systems Analysis**, and **Cloud Solutions**  
-📍 Based in Australia | 💬 Actively looking for internship or grad roles in **Cybersecurity**, **Systems Analysis**, and **Technical Consulting**
+📍 Based in Australia | 💬 Actively looking for internship or grad roles in **Cybersecurity**, **Systems Analysis**, **Networks Architecture/ administrator** and **Technical Consulting**
 
 ---
 
 ## 🧠 About Me
-I’m a tech enthusiast passionate about building secure, scalable, and smart digital solutions. With hands-on experience in penetration testing, cloud platforms, and full-stack development, I bring a proactive and analytical mindset to every challenge I face.
+💻 Technology Enthusiast | Cybersecurity Researcher | Aspiring Network 💻 Technology Enthusiast | Cybersecurity Researcher | Network Analyst | Networking Advocate | Network and Security Student | Aspiring Network Engineer | Developing Full-Stack Developer
 
-I love working on projects where I can combine my security knowledge with problem-solving and systems thinking. Whether it's securing an Active Directory network, deploying Docker containers, or designing user-friendly frontends—I bring curiosity and commitment.
+I am a dedicated and detail-oriented technology student committed to designing secure, scalable, and user-centered digital solutions. With practical experience in penetration testing, Active Directory exploitation, vulnerability assessments, and cloud platforms, I am adept at addressing real-world challenges through a secure-by-design approach.
+
+My expertise includes deploying Dockerized environments, conducting ethical hacking exercises, developing responsive front-end applications, and managing MongoDB-backed Express applications. I engage in each project with analytical thinking, an insatiable curiosity, and a profound dedication to continuous learning.
+
+I thrive in collaborative environments where systems analysis, secure architecture, and innovative problem-solving intersect—particularly when I can effectively bridge the gap between complex technical concepts and intuitive user experiences.
+
+Security Testing | Systems Thinking | Cloud and DevOps | Full-Stack Projects | Data-Driven Design | CCNA-Certified Networking Student
 
 ## 💼 What I Bring to the Table
 
@@ -101,8 +107,6 @@ I love working on projects where I can combine my security knowledge with proble
 ![Curiosity](https://img.shields.io/badge/Continuous%20Learning-%233F51B5?style=for-the-badge)
 ![Ethical Reasoning](https://img.shields.io/badge/Ethical%20Reasoning-%238E24AA?style=for-the-badge)
 
-
-
 ---
 
 ## 🔍 Featured Projects
@@ -119,12 +123,10 @@ I love working on projects where I can combine my security knowledge with proble
 > **Role:** Security Analyst  
 > Conducted an internal network pen test on an Active Directory environment. Used tools like `Nmap`, `Impacket`, `BloodHound`, `CrackMapExec` to find and exploit misconfigurations. Reported CVEs with detailed mitigation strategies.
 
-![PenTest Lab](https://user-images.githubusercontent.com/placeholder/project2.png)
-
 ---
 
 ### 🧠 Shuchaku Anime Store System
-> **Role:** Systems Designer  
+> **Role:** Systems Designer & Systems Devlopment & Project Manager
 > Developed an end-to-end secure business information system for an anime store. Included login/auth, product management, business analytics, and role-based access control.
 
 ![Shuchaku System](https://user-images.githubusercontent.com/placeholder/project3.png)

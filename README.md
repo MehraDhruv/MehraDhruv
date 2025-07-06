@@ -133,8 +133,8 @@ I love working on projects where I can combine my security knowledge with proble
 
 ## 📈 GitHub Insights
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvmehra&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-mehra&layout=compact&theme=tokyonight)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehraDhruv&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehraDhruv&layout=compact&theme=tokyonight)
 
 ---
 

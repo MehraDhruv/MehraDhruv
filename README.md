@@ -4,11 +4,11 @@ layout: center
 
 # 👋 Hi there, I'm **Dhruv Mehra**
 
-![Banner](https://miro.medium.com/v2/resize:fit:1000/1*yJXbQF9JDj7aAJaXV8VePQ.gif)
-
 🎓 **Bachelor of Information Technology** | Major: **Networks & Security**  
 🔐 Future-focused on **Cybersecurity**, **Systems Analysis**, and **Cloud Solutions**  
-📍 Based in Australia | 💬 Actively looking for internship or grad roles in **Cybersecurity**, **Systems Analysis**, **Networks Architecture/ administrator** and **Technical Consulting**
+📍 Based in Australia | 💬 Actively looking for internship or grad roles in **Cybersecurity**, **Systems Analysis**, **Networks Architecture/ administrator** and **Technical Consulting**    
+
+<img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="300" height="300" />
 
 ---
 
@@ -112,7 +112,8 @@ Security Testing | Systems Thinking | Cloud and DevOps | Full-Stack Projects | D
 ## 🔍 Featured Projects
 
 ### 📌 [Brissy Climate Connect](https://github.com/dhruv-mehra/climate-website)
-> **Role:** UX/UI Developer & Systems Analyst  
+> **Role:** UX/UI Developer & Systems Analyst
+> 
 > Designed an awareness website for Brisbane City Council using HTML, CSS, JS and accessibility principles. Integrated donation and volunteer action pathways.
 
 ![Climate Website](https://user-images.githubusercontent.com/placeholder/project1.png)

@@ -89,7 +89,7 @@ I love working on projects where I can combine my security knowledge with proble
 
 ### 📊 Soft Skills
 
-> "Known for being an effective communicator, detail-oriented thinker, and enthusiastic collaborator in fast-paced environments. Always open to learning, adapting, and solving challenges ethically and efficiently."
+> "Recognized for effective communication, attention to detail, and enthusiastic collaboration in fast-paced environments. Continuously open to learning, adapting, and ethically solving challenges efficiently."
 
 ![Analytical](https://img.shields.io/badge/Analytical%20Thinking-%23FFC107?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%2300C853?style=for-the-badge)

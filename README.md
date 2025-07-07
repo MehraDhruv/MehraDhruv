@@ -1,6 +1,3 @@
----
-layout: center
----
 
 # 👋 Hi there, I'm **Dhruv Mehra**
 
@@ -131,13 +128,6 @@ Security Testing | Systems Thinking | Cloud and DevOps | Full-Stack Projects | D
 > Developed an end-to-end secure business information system for an anime store. Included login/auth, product management, business analytics, and role-based access control.
 
 ![Shuchaku System](https://user-images.githubusercontent.com/placeholder/project3.png)
-
----
-
-## 📈 GitHub Insights
-
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehraDhruv&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehraDhruv&layout=compact&theme=tokyonight)
 
 ---
 

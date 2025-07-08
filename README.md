@@ -119,15 +119,7 @@ Security Testing | Systems Thinking | Cloud and DevOps | Full-Stack Projects | D
 
 ### 🛡️ Penetration Testing Lab
 > **Role:** Security Analyst  
-> Conducted an internal network pen test on an Active Directory environment. Used tools like `Nmap`, `Impacket`, `BloodHound`, `CrackMapExec` to find and exploit misconfigurations. Reported CVEs with detailed mitigation strategies.
-
----
-
-### 🧠 Shuchaku Anime Store System
-> **Role:** Systems Designer & Systems Devlopment & Project Manager
-> Developed an end-to-end secure business information system for an anime store. Included login/auth, product management, business analytics, and role-based access control.
-
-![Shuchaku System](https://user-images.githubusercontent.com/placeholder/project3.png)
+> Conducted an internal network pen test on an Active Directory environment. Used tools like `Nmap`, `Impacket`, `BloodHound`, `CrackMapExec` to find and exploit misconfigurations. Reported CVEs with detailed mitigation strategies
 
 ---
 

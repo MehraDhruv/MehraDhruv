@@ -106,17 +106,6 @@ Security Testing | Systems Thinking | Cloud and DevOps | Full-Stack Projects | D
 
 ---
 
-## 🔍 Featured Projects
-
-### 📌 [Brissy Climate Connect](https://github.com/dhruv-mehra/climate-website)
-> **Role:** UX/UI Developer & Systems Analyst
-> 
-> Designed an awareness website for Brisbane City Council using HTML, CSS, JS and accessibility principles. Integrated donation and volunteer action pathways.
-
-![Climate Website](https://user-images.githubusercontent.com/placeholder/project1.png)
-
----
-
 ### 🛡️ Penetration Testing Lab
 > **Role:** Security Analyst  
 > Conducted an internal network pen test on an Active Directory environment. Used tools like `Nmap`, `Impacket`, `BloodHound`, `CrackMapExec` to find and exploit misconfigurations. Reported CVEs with detailed mitigation strategies
